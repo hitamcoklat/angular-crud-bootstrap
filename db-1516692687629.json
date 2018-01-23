@@ -1,0 +1,14 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Android AsyncTask Example",
+      "category": "Android"
+    },
+    {
+      "title": "Buku Panduan Menulis",
+      "category": "DIY",
+      "id": 4
+    }
+  ]
+}
